@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "836e82db89eb5386",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae719608dc3f1230",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Tips.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6a85dcb073bc78d",
+    "type": "split",
+    "children": [
+      {
+        "id": "176ed3cdfdac8e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac9a8b916f345dcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f4e3caf8d1cd04c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sear",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d4a1493e5b50dfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f612d129a90ae00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e7cdd600f2bc1c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Tips.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3f89c27b97e0744",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Tips.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ae719608dc3f1230",
+  "lastOpenFiles": [
+    "Obsidian Tips.md",
+    "search and rp.md",
+    "image_path.md",
+    "100 Obsidian Tips.md",
+    "Untitled.md"
+  ]
+}
