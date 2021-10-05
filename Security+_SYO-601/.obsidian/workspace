@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "01e7f4e239258532",
+    "type": "split",
+    "children": [
+      {
+        "id": "e890f70f1dd6fd1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.1-Social_Engineering/Dumpster_Diving.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37cf4226cc409c0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7a2384709ca8fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96497823d2fdd881",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecf6f9da6f5d4bec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fcb27703b109991",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd14db42ddb5e4eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "948ebd98d2cf2acb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6f56453989235f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.1-Social_Engineering/Dumpster_Diving.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f677cf1458282f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e890f70f1dd6fd1e",
+  "lastOpenFiles": [
+    "1.1-Social_Engineering/Dumpster_Diving.md",
+    "1.1-Social_Engineering/Hoaxes.md",
+    "1.1-Social_Engineering/Phishing.md",
+    "1.1-Social_Engineering/Impersonation.md",
+    "1.1-Social_Engineering/Shoulder_Surfing.md",
+    "1.1-Social_Engineering/Watering_Hole_Attacks.md",
+    "1.1-Social_Engineering/Dumpster Diving.md",
+    "1.1-Social_Engineering/Watering Hole Attacks.md",
+    "Untitled.md",
+    "Impersonation.md"
+  ]
+}
