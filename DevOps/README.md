@@ -23,7 +23,7 @@ By embracing DevOps principles and adopting appropriate tools and practices, org
 ## DevOps Stages?
 DevOps implementation typically involves several stages or phases. While the exact terminology and order of these stages may vary depending on the source, here is a commonly used set of DevOps stages:
 
-<br>
+![](./imgs/devops_stages.png)
 
 1. Plan: In this stage, teams define project goals, plan the required features and functionality, and determine the resources and timelines. It involves collaboration between development, operations, and other stakeholders to align the project objectives.
 
@@ -82,3 +82,25 @@ The key principles of Continuous Delivery include:
 - Release Orchestration: CD includes release management practices that help coordinate and manage releases across different environments, enabling controlled and auditable deployments.
 
 - Incremental Feature Releases: CD promotes the ability to release small and incremental changes to production, allowing for faster feedback and reducing the time between development and customer usage.
+
+---
+
+## Shifting Left (DevSecOps)
+Security can now be easily integrated because of the visibility and flexibility that DevOps introduces. You might have heard of the concept "Shifting Left." This means that  DevOps teams focus on applying security from the earliest stages in the development lifecycle and introducing a more collaborative culture between development and security.
+
+In the past, security testing was implemented at the end of the development cycle. As the industry evolved and security functions were introduced, security teams would perform various analyses and security testing in the final stages of the lifecycle. Depending on the results of security testing, it would either permit the application to proceed for deployment into production or reject the application and pass it back to developers for remediating the flaws identified. This resulted in long delays in development and friction between teams.
+
+Implementing security measures during all stages of the development lifecycle (shifting left) rather than at the end of the cycle will ensure the software is designed with security best practices built in. By detecting security flaws early in development, remediation costs are lower, and there would be no need to roll back changes as they are being addressed on time. This reduces cost, builds trust, and improves the security and quality of the product.
+
+Since security can now be introduced early, risks are reduced massively. In the past, you would find out about security flaws and bugs at the very late stages, even in production. They are leading to stress, rollbacks, and economic losses. Integrating code analysis tools and automated tests earlier in the process can now identify these security flaws during early development.
+
+![](./imgs/DevSecOps.png)
+
+This development approach to shifting left in DevOps can be referred to as **DevSecOps**.
+
+With DevOps, security gets to be introduced early in the development cycle and this minimizes risks massively. Integrating code analysis tools and automated tests earlier in the process can lead to better identification and elimination of security loopholes. And as the software gets to the deployment stage, everything works smoothly as anticipated. Security is not an add-on. It's a must-have design feature. Blending security in DevOps would enhance the impact of DevOps and eliminate a lot of other bottlenecks that could arise otherwise. With a rise in the frequency of cyber threats and tightening regulations, adding security to DevOps is not a choice now but indeed an obligation.
+
+### DevSecOps
+DevSecOps is an approach that relies heavily on automation and platform design that integrates security as a shared responsibility. It means all members will be accountable for security impelementations and create a platform that test and analysises are run automatically.
+
+DevSecOps should aim to bridge the security knowledge gaps between teams; for everyone to think and be accountable for security, they first need the tools and knowledge to drive this autonomy efficiently and confidently. 
