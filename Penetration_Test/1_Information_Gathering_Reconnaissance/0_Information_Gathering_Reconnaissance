@@ -1,0 +1,28 @@
+## What is Information gathering?
+Information gathering, also known as reconnaissance, is the initial phase of a penetration test or security assessment where an ethical hacker or security professional collects data and intelligence about the target organization, system, or network. The goal of this phase is to understand the potential attack surface, identify vulnerabilities, and gain insights into the target's security posture. Information gathering is a critical step in planning and executing a successful penetration test. There are several types of information gathering or reconnaissance:
+
+1. Passive Reconnaissance: In passive reconnaissance, the tester collects information without directly interacting with the target. This often involves using publicly available sources and open-source intelligence (OSINT) techniques. Passive reconnaissance can include:
+    - Google Dorking: Using specific search queries on search engines like Google to find sensitive information, such as login pages, directories, or exposed documents.
+    - Social Engineering: Gathering information about the target organization or individuals through social media profiles, job postings, or other public sources.
+    - DNS Enumeration: Collecting information about the target's DNS records, including subdomains and mail servers, using tools like dig or nslookup.
+
+2. Active Reconnaissance: Active reconnaissance involves direct interaction with the target system or network to gather information. While it is more intrusive than passive reconnaissance, it can provide more detailed insights. Active reconnaissance techniques include:
+    - Scanning and Enumeration: Conducting network scans to identify open ports, services, and potential vulnerabilities using tools like Nmap or Nessus.
+    - Banner Grabbing: Extracting information from banners or banners provided by services running on target systems to determine the version and type of software in use.
+    - Whois Lookup: Gathering information about domain registration, including contact details and registration history.
+    - Traceroute: Mapping the network path to the target to understand the topology and potential access points.
+
+3. Social Engineering: While social engineering is often associated with human manipulation, it can also be a form of information gathering. Attackers may engage with employees, impersonate trusted individuals, or use phishing emails to extract sensitive information.
+
+4. Active Directory Enumeration: In the context of Windows environments, active directory enumeration involves querying the active directory to discover information about users, groups, and network resources.
+
+5. Web Application Scanning: For web application security assessments, testers may use automated scanners like Burp Suite or OWASP ZAP to identify potential vulnerabilities, such as SQL injection or Cross-Site Scripting (XSS), within web applications.
+
+6. Network Mapping: Creating a map of the target network's structure and identifying devices, routers, and firewalls. Tools like SNMP (Simple Network Management Protocol) may be used.
+
+7. Email Harvesting: Gathering email addresses associated with the target organization or individuals for potential use in phishing attacks or other malicious activities.
+
+--- 
+
+## Example road map
+![](../imgs/1_info_gathering.png)
